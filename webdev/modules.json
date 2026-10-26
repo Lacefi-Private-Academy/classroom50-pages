@@ -1,0 +1,201 @@
+{
+  "schema": "classroom50/modules/v1",
+  "modules": [
+    {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "New here? Start with these. They set up your computer and teach the basics.",
+      "courses": [
+        "welcome",
+        "your-tools",
+        "the-terminal",
+        "git-github"
+      ]
+    },
+    {
+      "id": "html-foundations",
+      "title": "HTML Foundations",
+      "description": "Learn HTML one piece at a time, with real websites to explore. Do them in order.",
+      "courses": [
+        "intro-to-html",
+        "document-structure",
+        "text-content",
+        "links",
+        "images",
+        "lists",
+        "containers",
+        "classes-ids",
+        "tables",
+        "forms",
+        "media",
+        "semantic-html"
+      ]
+    },
+    {
+      "id": "css-basics",
+      "title": "CSS: Basics",
+      "description": "The foundations of CSS: what it is, syntax, how to add it, selectors, colours and backgrounds.",
+      "courses": [
+        "what-is-css",
+        "css-syntax",
+        "css-how-to",
+        "css-selectors",
+        "css-colors",
+        "css-backgrounds"
+      ]
+    },
+    {
+      "id": "css-box",
+      "title": "CSS: Box Model & Text",
+      "description": "Space and style content: the box model, padding and margin, borders, sizing, text and fonts.",
+      "courses": [
+        "css-box-model",
+        "css-spacing",
+        "css-borders",
+        "css-sizing",
+        "css-text",
+        "css-fonts"
+      ]
+    },
+    {
+      "id": "css-layout",
+      "title": "CSS: Layout",
+      "description": "Arrange the page: display types, positioning, float, overflow and z-index, and building a nav bar.",
+      "courses": [
+        "css-display",
+        "css-position",
+        "css-float",
+        "css-overflow",
+        "css-navbar"
+      ]
+    },
+    {
+      "id": "css-flexgrid",
+      "title": "CSS: Flexbox & Grid",
+      "description": "Modern layout: Flexbox for rows, Grid for two-dimensional layouts, and a responsive card gallery project.",
+      "courses": [
+        "css-flexbox",
+        "css-flex-items",
+        "css-grid",
+        "css-grid-items",
+        "css-layout-project"
+      ]
+    },
+    {
+      "id": "css-advanced",
+      "title": "CSS: Advanced",
+      "description": "Polish and motion: pseudo-classes/elements, variables, gradients, shadows, transitions and animations.",
+      "courses": [
+        "css-pseudo",
+        "css-variables",
+        "css-gradients",
+        "css-shadows",
+        "css-transitions",
+        "css-animations"
+      ]
+    },
+    {
+      "id": "css-responsive",
+      "title": "CSS: Responsive",
+      "description": "Make it work on every screen: units, media queries, responsive design, specificity, and a full styling project.",
+      "courses": [
+        "css-units",
+        "css-media-queries",
+        "css-responsive",
+        "css-specificity",
+        "css-project"
+      ]
+    },
+    {
+      "id": "js-basics",
+      "title": "JavaScript: Basics",
+      "description": "Run real code with Node in the terminal: setup, syntax, variables, data types, operators, type conversion, and your first functions.",
+      "courses": [
+        "what-is-js",
+        "js-where-to",
+        "js-syntax",
+        "js-variables",
+        "js-data-types",
+        "js-operators",
+        "js-type-conversion",
+        "js-functions",
+        "js-basics-project"
+      ]
+    },
+    {
+      "id": "js-control",
+      "title": "JavaScript: Control Flow",
+      "description": "Make decisions and repeat work: if/else, switch, for and while loops, and looping over items.",
+      "courses": [
+        "js-conditions",
+        "js-switch",
+        "js-loops",
+        "js-iterations",
+        "js-control-project"
+      ]
+    },
+    {
+      "id": "js-data",
+      "title": "JavaScript: Data & Structures",
+      "description": "Work with real data: strings, numbers, the Math toolbox, dates, arrays and their methods, plus Sets and Maps.",
+      "courses": [
+        "js-strings",
+        "js-numbers",
+        "js-math",
+        "js-dates",
+        "js-arrays",
+        "js-array-methods",
+        "js-sets-maps",
+        "js-data-project"
+      ]
+    },
+    {
+      "id": "js-objects",
+      "title": "JavaScript: Scope, Objects & Classes",
+      "description": "Organise your code: scope, arrow functions, objects, classes and JSON.",
+      "courses": [
+        "js-scope",
+        "js-arrow",
+        "js-objects",
+        "js-classes",
+        "js-json",
+        "js-objects-project"
+      ]
+    },
+    {
+      "id": "js-dom",
+      "title": "JavaScript: DOM & Events",
+      "description": "Bring pages to life: select and change elements, react to clicks and input, handle forms, and use timers.",
+      "courses": [
+        "js-dom",
+        "js-dom-change",
+        "js-events",
+        "js-forms",
+        "js-timers",
+        "js-dom-project"
+      ]
+    },
+    {
+      "id": "js-advanced",
+      "title": "JavaScript: Advanced",
+      "description": "Level up: errors and try/catch, debugging, regular expressions, async/await, fetching live data, and modules.",
+      "courses": [
+        "js-errors",
+        "js-debugging",
+        "js-regexp",
+        "js-async",
+        "js-fetch",
+        "js-modules",
+        "js-advanced-project"
+      ]
+    },
+    {
+      "id": "build-portfolio",
+      "title": "Build Your Portfolio",
+      "description": "The final project: combine HTML, CSS and JavaScript into a personal portfolio. Graded by your teacher.",
+      "courses": [
+        "portfolio"
+      ]
+    }
+  ]
+}

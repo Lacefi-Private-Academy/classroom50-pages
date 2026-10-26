@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Frontend Web Development",
+  "short_name": "webdev",
+  "term": "Beginner Track",
+  "org": "Brandon-s-Private-Academy",
+  "team": {
+    "id": 19504925,
+    "slug": "classroom50-webdev"
+  },
+  "teams": {
+    "teacher": {
+      "id": 19504926,
+      "slug": "classroom50-webdev-teacher"
+    },
+    "hta": {
+      "id": 19504927,
+      "slug": "classroom50-webdev-hta"
+    },
+    "ta": {
+      "id": 19504928,
+      "slug": "classroom50-webdev-ta"
+    }
+  }
+}
